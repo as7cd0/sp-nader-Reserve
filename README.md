@@ -1,4 +1,4 @@
-راح اخليك تعدلي سكربت اولا افهم معلومات مكتبه SP Library v2
+ SP Library v2
 This documentation is for SP Library
 
 Booting the Library
